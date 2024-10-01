@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div className="grid grid-rows-[auto_1fr_auto] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
             {/* Header with Your Name */}
-            <header className="text-2xl font-bold row-start-1">Your Name</header>
+            <header className="text-2xl font-bold row-start-1 tracking-wide"> B I N I Y A M </header>
 
             <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
                 <Image
@@ -55,7 +55,7 @@ export default function Home() {
                 {/* New Blog Entry */}
                 <div className="mt-8">
                     <h2 className="text-xl font-semibold">My Journey Creating a Next.js PWA and Deploying on Vercel</h2>
-                    <p className="text-sm">Published on [Date]</p>
+                    <p className="text-sm">Published on October 1, 2024</p>
                     <p className="mt-2">
                         Creating my first Progressive Web Application (PWA) with Next.js was both exhilarating and
                         challenging. Initially, I was drawn to Next.js because of its powerful features like server-side
