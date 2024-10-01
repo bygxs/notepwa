@@ -1,0 +1,16 @@
+{
+    "name": "notepwa",
+    "short_name": "note",
+    "theme_color": "#00ff00",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {"src": "/icons-192.PNG", "type": "image/PNG", "sizes": "192x192", "purpose": "maskable any"},
+        {"src": "/icons-256.PNG", "type": "image/PNG", "sizes": "256x256", "purpose": "maskable any"},
+        {"src": "/icons-512.PNG", "type": "image/PNG", "sizes": "512x512", "purpose": "maskable any"}
+    ],
+    "splash_pages": null
+}
